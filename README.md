@@ -1,2 +1,2 @@
 # To-Do-App
-First to do app with js!
+To-do-app with javascript!
